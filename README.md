@@ -1,5 +1,8 @@
 # OvaLens: Computational Profiling of the Ovarian Cancer Microenvironment
 
+## 📊 Clinical Validation Results
+![Survival Analysis](results/barrier_clinical_validation_KM.png)
+
 ## 🧬 Project Overview
 OvaLens is a multi-omic integration pipeline designed to characterize the stromal "Barrier" in high-grade serous ovarian cancer (HGSOC). By bridging **Epigenetic Cell-of-Origin** data with **Single-Cell RNA Atlas** and **Spatial Proteomics**, we have identified a metastatic-specific cellular shield.
 
