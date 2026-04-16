@@ -44,3 +44,6 @@ OvaLens is a multi-omic integration pipeline designed to characterize the stroma
 * **Source:** Jin et al. (2025). "Machine learning driven multiomics analysis identifies disulfidptosis associated molecular subtypes in ovarian cancer." *Scientific Reports*. DOI: 10.1038/s41598-025-26157-z.
 * **Data Used:** `OV_TCGA.csv`, `OV_GEO.csv`.
 * **Methodology:** Integrated clinical labels and survival data (OS/PFS) to assess the prognostic value of the OvaLens "Barrier" signature. This ensures the 32.44% metastatic density correlates with real-world patient outcomes.
+
+## 💡 Clinical Impact
+The **OvaLens Barrier** identifies a high-risk patient population that may require specialized treatment strategies. While traditional therapies target the tumor itself, our data suggest that 'High Barrier' patients may benefit more from stroma-modulating agents or therapies designed to penetrate the OSE-origin physical defense shield.
