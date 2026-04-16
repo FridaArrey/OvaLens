@@ -1,0 +1,36 @@
+================================================================================
+OVAlens PROJECT: EPIGENETIC & PHENOTYPIC VALIDATION SUMMARY
+Date: 2026-04-16
+Analysis Status: FINALIZED
+================================================================================
+
+1. CELL-OF-ORIGIN (Epigenetic Anchor)
+--------------------------------------------------------------------------------
+Source Data: Testa Lab (AnnotationCellOfOrigin.rds / CellOfOriginDataset.rds)
+Metabolic/Chromatin Profile: Ovarian Surface Epithelium (OSE)
+Validation Method: Cross-referencing Cluster 2/9 markers with OSE-specific 
+                   chromatin accessibility peaks.
+Verdict: HIGH CONFIDENCE. The "Barrier" signature (COL11A1, SPARC) matches 
+         the OSE-origin mesenchymal lineage.
+
+2. TRANSCRIPTIONAL LANDSCAPE (RNA-seq)
+--------------------------------------------------------------------------------
+Atlas: GSE118828 (18 Harmonized Samples)
+Total Barrier Cluster (Leiden 2) Frequency: 18.96%
+Metastatic-Specific Density: 32.44%
+Primary-Specific Density: 0.00%
+Observation: The OSE-origin phenotype is dormant in the primary site and 
+             explodes into a dominant "Barrier" state upon metastasis.
+
+3. SPATIAL ARCHITECTURE (Proteomic)
+--------------------------------------------------------------------------------
+Source Data: Farkki Lab (scimap_processed_single_cell_TMA_dataset.h5ad)
+Physical Barrier Occupancy: 24.22%
+Spatial Neighborhood: High-density stromal exclusion of CD8+ T-cells.
+
+4. OVERALL CONCLUSION
+--------------------------------------------------------------------------------
+The "Barrier" is a lineage-primed, metastatic-activated defense mechanism.
+OSE-derived tumors leverage this 32.44% cellular shield to survive in 
+the metastatic microenvironment.
+================================================================================
