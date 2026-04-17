@@ -47,3 +47,25 @@ OvaLens is a multi-omic integration pipeline designed to characterize the stroma
 
 ## 💡 Clinical Impact
 The **OvaLens Barrier** identifies a high-risk patient population that may require specialized treatment strategies. While traditional therapies target the tumor itself, our data suggest that 'High Barrier' patients may benefit more from stroma-modulating agents or therapies designed to penetrate the OSE-origin physical defense shield.
+
+---
+
+## 🚀 Discovery Output: The Ovarian Barrier Signature
+
+OvaLens transitions from observation to action by identifying the specific molecular "bolts" that hold the metastatic barrier together. By cross-referencing our spatial exclusion maps with druggability databases, we have identified three priority targets for dismantling the tumor shield.
+
+| Target | Biological Mechanism | Actionable Agent | Jury Classification |
+| :--- | :--- | :--- | :--- |
+| **POSTN** | T-Cell Exclusion Interface | Galunisertib (TGF-β Inh) | 🔥 **High Priority** |
+| **FAP** | Structural "Moat" Formation | FAP-Targeted BiTE / CAR-T | 🔥 **High Priority** |
+| **COL1A1** | Dense Fibrotic Barrier | LOXL2 Inhibitor | 🛡️ **Structural Target** |
+
+### 🧠 The Owkin-Inspired Vision: Beyond the Magic Bullet
+Inspired by recent breakthroughs in **Spatial Pathomics** (Owkin, 2026), OvaLens addresses the "Delivery Problem" in oncology. Even the most advanced **Antibody-Drug Conjugates (ADCs)** fail if they cannot penetrate the stroma. 
+
+Our pipeline proves that:
+1. **Spatial is Functional:** A target’s value is defined by its position. **POSTN** is critical because it sits exactly at the immune-exclusion interface.
+2. **Targeting the Territory:** By dismantling the **FAP/COL1A1** shield, we "open the door" for both the patient's own immune cells and subsequent ADC therapies.
+3. **Clinical Translation:** We don't just find genes; we identify the existing pharmacological "keys" (like Galunisertib) to unlock the tumor microenvironment.
+
+> *"The future of oncology isn't just about finding a better magic bullet; it's about understanding the battlefield."*
